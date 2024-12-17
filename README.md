@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm MOHAN PRUTHI</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanpruthi&label=Profile%20views&color=9d6fe2&style=flat" alt="mohanpruthi" /> </p>
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohanpruthi" alt="mohanpruthi" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanpruthi&label=Profile%20views&color=9d6fe2&style=flat" alt="mohanpruthi" /> </p>
 
 - 🔭 I’m currently working on [SkillSpace](https://skill-space-opal.vercel.app/)
 
@@ -26,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohanpruthi&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="mohanpruthi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohanpruthi&show_icons=true&theme=tokyonight&title_color=640471&text_color=a942a5&bg_color=d78ec4&locale=en" alt="mohanpruthi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohanpruthi&show_icons=true&theme=dracula&title_color=fb4bfb&text_color=c15398&bg_color=760557&cache_seconds=1800&locale=en" alt="mohanpruthi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanpruthi&theme=highcontrast" alt="mohanpruthi" /></p>
