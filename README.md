@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mohanpruthi33@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fDBC8zZ9xJr0zvC9svItytT_rfayxdyQ/view?usp=drive_link](https://drive.google.com/file/d/1fDBC8zZ9xJr0zvC9svItytT_rfayxdyQ/view?usp=drive_link)
+- 📄 My experiences [https://drive.google.com/file/d/1fDBC8zZ9xJr0zvC9svItytT_rfayxdyQ/view?usp=drive_link](https://drive.google.com/file/d/1fDBC8zZ9xJr0zvC9svItytT_rfayxdyQ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
