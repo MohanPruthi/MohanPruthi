@@ -27,4 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohanpruthi&show_icons=true&theme=dracula&title_color=fb4bfb&text_color=c15398&bg_color=760557&cache_seconds=1800&locale=en" alt="mohanpruthi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanpruthi&theme=highcontrast" alt="mohanpruthi" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohanpruthi&theme=highcontrast&cache_bust=true" alt="mohanpruthi" />
+</p>
